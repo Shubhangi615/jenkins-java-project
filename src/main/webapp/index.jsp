@@ -13,11 +13,12 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2>NETFLIX SIGN IN V-4.0</h2>
+      <h2>NETFLIX SIGN IN V-5.0</h2>
+      <h2>Welcome to Netflix</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>Email or phone number</label>
+          <label>Email or mobile number</label>
         </div>
         <div class="form-control">
           <input type="password" required />
